@@ -39,5 +39,3 @@ def update_counting_hash(hash, key)
   end
   return update_hash
 end
-
-return update_hash
