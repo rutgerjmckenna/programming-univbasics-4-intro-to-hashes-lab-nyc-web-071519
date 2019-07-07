@@ -7,6 +7,7 @@ def my_hash
    :person => "Rutger"
    :age => "28"
  }
+ return my_hash
 end
 
 def pioneer
