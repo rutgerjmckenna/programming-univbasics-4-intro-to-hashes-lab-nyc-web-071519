@@ -4,8 +4,8 @@ end
 
 def my_hash
  my_hash = {
-   person: "Rutger"
-   age: "28"
+   :person => "Rutger"
+   :age => "28"
  }
 end
 
