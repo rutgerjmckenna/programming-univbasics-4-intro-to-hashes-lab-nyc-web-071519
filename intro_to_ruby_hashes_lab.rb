@@ -3,8 +3,8 @@ def new_hash
 end
 
 def my_hash
- dude = {
-   :person => "Rutger"
+ my_hash = {
+   :person => "Rutger",
    :age => "28"
  }
 end
