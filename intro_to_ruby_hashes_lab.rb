@@ -17,7 +17,7 @@ end
 
 def id_generator
  id generator = {
-   :identify => 35
+   :id => 35
  }
 end
 
