@@ -5,7 +5,7 @@ end
 def my_hash
  my_hash = {
    :person => "Rutger"
-   :age => "old enough"
+   :age => "28"
  }
 end
 
